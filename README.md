@@ -15,4 +15,12 @@ Airbnb is an online marketplace which lets people to rent their properties, room
 
 ## Libraries and Installation
 
-Most of the code in this project will run with Python version 3.*. The following libraries are used in the notebook: numpy, pandas, matplotlib, sklearn, and seaborn. To install any library exectue 'pip install library_name' in terminal.
+Most of the code in this project will run with Python version 3.*. 
+The following libraries are used in the notebook: 
+1.) numpy, 
+2.) pandas, 
+3.) matplotlib, 
+4.) sklearn, and 
+5.) seaborn. 
+
+To install any library exectue 'pip install library_name' in terminal.
