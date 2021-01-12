@@ -31,3 +31,13 @@ The following libraries are used in the notebook:
 5.) seaborn. 
 
 To install any library exectue 'pip install library_name' in terminal.
+
+## The Conclusion
+
+1.) We have found that property pricing is dependent on many number of features and strongly correlated with the property size, and room type. Thus provided, pricing is a sensitive feature and we cannot be relied only on the available features in our observations and consider many other factors to determine the price.
+   
+2.) Superhost are the recognition provided by Airbnb for performing well in hospitality. We have analysed the data to verify that they are really performing better than other host in the listings.
+   
+3.) September and October are the expensive months to travel and stay in Airbnb rooms. Properties are highly distributed along the Boston north station, Cambridge port, Brighton, and East Boston.
+   
+4.) We have created a model with Random Forest Regressor algorithm to predict the property pricing with few features selected from the listings dataset.
