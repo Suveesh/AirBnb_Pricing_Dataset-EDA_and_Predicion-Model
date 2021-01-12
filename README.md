@@ -42,13 +42,21 @@ To install any library exectue 'pip install library_name' in terminal.
 ## Directory structure
 
 ├── Udacity-Project-1---Data-Science-Nano-Degree
+
 ├── Airbnb_Dataset.zip
+
 │   ├── calendar                                                 <- Property availability and pricings based on the calendar dates
+
 │   ├── listings                                                 <- Airbnb Property lisitngs with all th supporting features such as roo_types, no. of bedrooms, review ratings etc.
+
 │   ├── reviews                                                  <- Reviews dataset with respect to calendar dates
+
 │   
+
 ├── airbnb-boston-data-anaysis-and-price-prediction.ipynb        <- Python coding on data analysis and visualzation to answer the business questions.
+
 │
+
 ├── README.md                                                    <- Brief description of the project and a guide to walk through the repository
 
 
